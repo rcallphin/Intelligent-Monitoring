@@ -38,4 +38,4 @@ At week 8 the goal was to have all data collecting and normalized in a consisten
 
 ![alt text](images/pic6.png "pic6")
 
-![alt text](images/Picture7.png "pic7")
+![alt text](images/pic7.png "pic7")
