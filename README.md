@@ -28,14 +28,18 @@ With each subset of data collected there is a specific cleaning and normalizatio
 
 At week 8 the goal was to have all data collecting and normalized in a consistent way for further processing in the future.  Data is scrapped and available in Prometheus.  Below are example queries and filters being run through Prometheus visualization tool in order to show data being gathered.
 
+First we can look at the average response time in seconds of a particular service.
+![alt text](images/Picture5.png "pic5")
+
+Same reponse time filtered by host for more granularity
+![alt text](images/Picture3.png "pic3")
+
+Standard Var and Dev over time for the response time. 
 ![alt text](images/Picture1.png "pic1")
 
 ![alt text](images/Picture2.png "pic2")
 
-![alt text](images/Picture3.png "pic3")
-
-![alt text](images/Picture5.png "pic5")
-
+Each prometheus query available to be visualized via many different options. (Grafana shows)
 ![alt text](images/pic6.png "pic6")
 
 ![alt text](images/pic7.png "pic7")
