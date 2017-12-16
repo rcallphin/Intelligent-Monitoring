@@ -67,7 +67,7 @@ Health check tracer bulled to define when a system is healthy or not. This is a 
 
 Based on the results of the health check, we pull in other data around the service and compare the output of that prediction to what the health check is showing. This gives an idea of what is causing the health check to be unhealthy.
 
-![alt text](images/splunk_hec_add_event_duration_seconds "metric1")
+![alt text](images/splunk_hec_add_event_duration_seconds.png "metric1")
 
 ![alt text](images/splunk_hec_add_event_success.png "metric2")
 
