@@ -54,10 +54,10 @@ https://www.tensorflow.org/
 
 Python Package Dependencies:
 
-numpy
-matplotlib
-tensorflow
-pandas
+1. numpy
+2. matplotlib
+3. tensorflow
+4. pandas
 
 Example results for One system health Check:
 
